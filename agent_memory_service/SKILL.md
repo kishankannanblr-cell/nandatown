@@ -7,9 +7,6 @@ description: Save and recall persistent key-value notes or coordinate state with
 
 This service provides a persistent key-value memory scratchpad for AI agents. Use it to store state, configuration, and checkpoints between executions, or to share context and coordinate with other agents.
 
-## Base URL
-https://YOUR-APP.onrender.com
-
 ## Endpoints
 
 ### 1. Health Check
